@@ -18,8 +18,8 @@ As seguintes camadas estão implementadas no protótipo, entre parênteses estã
 ---
 ### Orientações:
 
- - *Backend*: Estará ativo ao executar `run.py`. É necessário verificar requisitos de bibliotecas ao executar.
-  - *Database*: É requerido um banco de dados compatível com psycopg2. Foi utilizado [Crockroach
+- *Backend*: Estará ativo ao executar `run.py`. É necessário verificar requisitos de bibliotecas ao executar.
+- *Database*: É requerido um banco de dados compatível com psycopg2. Foi utilizado [Crockroach
    DB](https://cockroachlabs.cloud/) em nuvem. O esquema de tabelas do banco pode ser encontrado em `poc/database`.
 - *Componentes Sniffer SSDP/ICMP*: Poderá rodar no Windows e Linux.
 - *Componente Sniffer DHCP*: Só irá rodar no Linux, sudo é necessário.  
