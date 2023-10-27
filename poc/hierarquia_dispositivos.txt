@@ -1,0 +1,48 @@
+
+
+0. Rede (Ativos de gestão de rede):
+  - 0.1: Roteador, gateway, repetidor Wifi
+  - 0.1: Firewall
+  - 0.2: Rede SDN
+
+1. Dispositivo:
+  - 1.1: Computadores:
+    - 1.1.1: Desktop/laptop Windows
+    - 1.1.2: Desktop/laptop Mac OS
+    - 1.1.3: Desktop/laptop Linux
+
+  - 1.2: Smartphones:
+    - 1.2.1: Smartphone/tablet Android
+    - 1.2.2: iPhone/iPad Apple
+    - 1.2.3: Leitores eletrônicos
+
+  - 1.3: Consoles:
+    - 1.3.1: Xbox
+    - 1.3.2: Playstation
+    - 1.3.3: Nintendo
+
+  - 1.4: TVs:
+    - 1.4.1: Smart TV
+    - 1.4.2: TV Box/Stick
+      1.4.2.1: Android TV
+      1.4.2.2: Firestick
+
+  - 1.5: Dispositivos IoT:
+    - 1.5.1: Sensor
+    - 1.5.2: Smart light
+    - 1.5.3: Smart plug
+    - 1.5.4: Ar condicionado
+    - 1.5.5: Assistente virtual
+    - 1.5.6: Smart lock
+
+  - 1.6: Dispositivos de monitoramento:
+    - 1.6.1: Câmera de segurança
+    - 1.6.2: DVR
+
+  - 1.7: Impressoras:
+    - 1.7.1: Impressora
+    - 1.7.2: Multifuncional
+
+  - 1.8: Outros:
+    - 1.8.1: Dispositivo não classificado
+    - 1.8.2: Dispositivos corporativos
