@@ -53,7 +53,7 @@ json_classificacao = {
   "dispositivos IoT": {
     "class": "1.5",
     "name": "dispositivos IoT",
-    "synonyms": ["dispositivos IoT", "dispositivo IoT", "iot", "IoTs", "dispositivos inteligentes", "dispositivo inteligente"],
+    "synonyms": ["dispositivos IoT", "dispositivo IoT", "iot", "IoT", "IoTs", "dispositivos inteligentes", "dispositivo inteligente"],
     "fingerbank_ids": [15, 78269]
   },
   "sensores": {
