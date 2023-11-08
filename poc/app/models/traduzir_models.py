@@ -308,7 +308,7 @@ def translate(intent):
     
         translate = {           # Devolvendo em Representação Intermediaia (RI)
             'intent': intent['action'],
-            'category': intent['target'],
+            'target': intent['target'],
             'hostname': hostnames,
             'ip': ips,
             'service': service

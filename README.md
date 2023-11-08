@@ -7,7 +7,7 @@ Este repositório disponibiliza o código fonte do protótipo utilizado como pro
 
 As seguintes camadas estão implementadas no protótipo, entre parênteses estão presentes as tecnologias ou métodos utilizados como facilitadores:
 
- - Inteface com usuário (MAJU-NC / Dialogflow)
+ - Interface com usuário (MAJU-NC / Dialogflow)
  - Conversão (Dialogflow UI)
  - Tradução (Dialogflow UI / Componente Tradutor [MAJU-NC])
  - Identificação (Componente Sniffer DHCP / Componente Sniffer SSDP / Componente ICMP / Crockroach DB)

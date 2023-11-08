@@ -12,7 +12,7 @@ from psycopg2 import OperationalError
 '''
 sudo apt update
 sudo apt install python3-pip
-pip install 
+sudo apt install python3-psycopg2
 sudo pip install psycopg2-binary
 sudo pip install psycopg2
 
@@ -23,7 +23,7 @@ Para atualizar banco cockroachlabs.cloud...
   $ curl --create-dirs -o $HOME/.postgresql/root.crt 'https://url_do_cockroach...'
   $ exit
 
-rodar em modo admin:
+rodar em modo admin ou root:
    > sudo python3 sniffer_dhcp.py
 
 No windows, pode ser necessário utilizar Microsoft C++ Build Tools para importar a biblioteca netifaces
