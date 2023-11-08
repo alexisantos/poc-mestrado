@@ -23,7 +23,6 @@ google_json_patch = os.getenv('Google_json_patch')  # caminho do arquivo de chav
 serviceaccount_json_key = google_json_patch
 scopes = ['https://www.googleapis.com/auth/dialogflow']
 
-
 def credential_renew():
     request = Request()
     credentials.refresh(request)
