@@ -5,6 +5,8 @@
 
 Este repositório disponibiliza o código fonte do protótipo utilizado como prova de conceito da arquitetura e da interface de comunicação e tradução **MAJU-NC** (*Management Assistance with Json Usage for Network Configuration*).
 
+#### 🎥 Vídeo de demostração: [▶️Abrir demostração em vídeo](https://www.youtube.com/watch?v=3OuJ5BpLvpg)
+
 As seguintes camadas estão implementadas no protótipo, entre parênteses estão presentes as tecnologias ou métodos utilizados como facilitadores:
 
  - Interface com usuário (MAJU-NC / Dialogflow)
